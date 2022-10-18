@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jupkobe
-- 👀 I’m interested in ???
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ???
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python
 - 📫 How to reach me eyupglt42@gmail.com
 
 <!---
