@@ -2,6 +2,9 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
 - 📫 How to reach me eyupglt42@gmail.com
+https://leetcode.com/Jupkobe/
+https://www.linkedin.com/in/eyupglt/
+
 
 <!---
 Jupkobe/Jupkobe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
