@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jupkobe
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Web
+- 🌱 I’m currently learning TypeScript
 - 📫 How to reach me eyupglt42@gmail.com
 
 https://www.linkedin.com/in/eyupglt/
