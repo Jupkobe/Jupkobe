@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jupkobe
-- 👀 I’m interested in Web
-- 🌱 I’m currently learning TypeScript
+- 👀 I’m interested in Web Applications
+- 🌱 I’m currently learning Express.js
 - 📫 How to reach me eyupglt42@gmail.com
 
 https://www.linkedin.com/in/eyupglt/
