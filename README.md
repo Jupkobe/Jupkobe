@@ -17,5 +17,5 @@ Here are some of my noteworthy projects:
 - [Project 3 Name](Link) -->
 
 ## Get in Touch
-- LinkedIn: [LinkedIn: Eyupglt]([LinkedIn Profile Link](https://www.linkedin.com/in/eyupglt/))
+- LinkedIn: [LinkedIn: Eyupglt](https://www.linkedin.com/in/eyupglt/)
 - Email: eyupglt42@gmail.com
