@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @Jupkobe
-- 👀 I’m interested in Web Applications
-- 🌱 I’m currently learning Express.js
-- 📫 How to reach me eyupglt42@gmail.com
+# Hi there, I'm Eyüp 👋
+A passionate full-stack web developer.
 
-https://www.linkedin.com/in/eyupglt/
+## About Me
+I enjoy creating web applications and solving problems using cutting-edge technologies. I'm enthusiastic about learning new things and constantly improving my skill set.
 
+## Skills
+- **Frontend:** TailwindCSS, JavaScript, React.js
+- **Backend:** Node.js, Express.js, Socket.io
+- **Database:** MongoDB, MySQL, PostgreSQL
+- **Other Technologies:** Git, RESTful APIs 
 
-<!---
-Jupkobe/Jupkobe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Projects
+Here are some of my noteworthy projects:
+- [Multiplayer Super TicTacToe]([Link](https://github.com/Jupkobe/multiplayer-super-tictactoe))
+<!-- - [Project 2 Name](Link)
+- [Project 3 Name](Link) -->
+
+## Get in Touch
+- LinkedIn: [LinkedIn: Eyupglt]([LinkedIn Profile Link](https://www.linkedin.com/in/eyupglt/))
+- Email: eyupglt42@gmail.com
+
+Feel free to connect with me and explore my projects!
+
+![Eyüp's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
