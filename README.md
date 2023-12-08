@@ -22,4 +22,4 @@ Here are some of my noteworthy projects:
 
 Feel free to connect with me and explore my projects!
 
-![Eyüp's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Eyüp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jupkobe&show_icons=true&theme=radical)
