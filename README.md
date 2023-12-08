@@ -12,7 +12,7 @@ I enjoy creating web applications and solving problems using cutting-edge techno
 
 ## Projects
 Here are some of my noteworthy projects:
-- [Multiplayer Super TicTacToe]([Link](https://github.com/Jupkobe/multiplayer-super-tictactoe))
+- [Multiplayer Super TicTacToe](https://github.com/Jupkobe/multiplayer-super-tictactoe)
 <!-- - [Project 2 Name](Link)
 - [Project 3 Name](Link) -->
 
