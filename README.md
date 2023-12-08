@@ -19,7 +19,3 @@ Here are some of my noteworthy projects:
 ## Get in Touch
 - LinkedIn: [LinkedIn: Eyupglt]([LinkedIn Profile Link](https://www.linkedin.com/in/eyupglt/))
 - Email: eyupglt42@gmail.com
-
-Feel free to connect with me and explore my projects!
-
-![Eyüp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jupkobe&show_icons=true&theme=radical)
