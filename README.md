@@ -1,8 +1,8 @@
 # Hi there, I'm Eyüp 👋
-A passionate full-stack web developer.
+Blues lover and backend focused full-stack web developer from Turkey.
 
 ## About Me
-I enjoy creating web applications and solving problems using cutting-edge technologies. I'm enthusiastic about learning new things and constantly improving my skill set.
+I'm a senior Computer Engineering student. I create web applications to learn stuff, improve myself and enjoy along the way. 
 
 ## Skills
 - **Frontend:** TailwindCSS, JavaScript, React.js
@@ -11,11 +11,13 @@ I enjoy creating web applications and solving problems using cutting-edge techno
 - **Other Technologies:** Git, RESTful APIs 
 
 ## Projects
-Here are some of my noteworthy projects:
+Here are some of my noteworthy standalone projects:
 - [Multiplayer Super TicTacToe](https://github.com/Jupkobe/multiplayer-super-tictactoe)
-<!-- - [Project 2 Name](Link)
-- [Project 3 Name](Link) -->
+
+And these are my mini learning projects:
+- [Frontend Web Projects](https://github.com/Jupkobe/web-projects)
+- [React Projects](https://github.com/Jupkobe/react-projects)
 
 ## Get in Touch
-- LinkedIn: [Eyupglt](https://www.linkedin.com/in/eyupglt/)
+- LinkedIn: [Eyüp Gültekin](https://www.linkedin.com/in/eyupglt/)
 - Email: eyupglt42@gmail.com
