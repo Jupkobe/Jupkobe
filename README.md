@@ -5,7 +5,7 @@ Blues lover and backend focused full-stack web developer from Turkey.
 I'm a senior Computer Engineering student. I create web applications to learn stuff, improve myself and enjoy along the way. 
 
 ## Skills
-- **Frontend:** TailwindCSS, JavaScript, React.js
+- **Frontend:** TailwindCSS, JavaScript, React.js, Next.js
 - **Backend:** Node.js, Express.js, Socket.io
 - **Database:** MongoDB, MySQL, PostgreSQL
 - **Other Technologies:** Git, RESTful APIs 
