@@ -1,14 +1,14 @@
 # Hi there, I'm Eyüp 👋
-Blues lover and backend focused full-stack web developer from Turkey.
+Blues lover and frontend focused full-stack web developer.
 
 ## About Me
-I'm a senior Computer Engineering student. I create web applications to learn stuff, improve myself and enjoy along the way. 
+Junior Frontend Web Developer. I create web applications to learn stuff, improve myself and enjoy along the way. 
 
 ## Skills
-- **Frontend:** TailwindCSS, JavaScript, React.js, Next.js
-- **Backend:** Node.js, Express.js, Socket.io
+- **Frontend:** TailwindCSS, JavaScript, React.js, Next.js, Angular(js)
+- **Backend:** Node.js, Express.js, Socket.io, .net
 - **Database:** MongoDB, MySQL, PostgreSQL
-- **Other Technologies:** Git, RESTful APIs 
+- **Other Technologies:** Git, RESTful APIs, Docker
 
 ## Projects
 Here are some of my noteworthy standalone projects:
